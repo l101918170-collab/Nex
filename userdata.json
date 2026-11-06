@@ -16,5 +16,47 @@
         "key": "mmd1",
         "expirydate": "15-06-2029",
         "Allowoffline": false
-}
+},
+{
+        "device_id": "1f75e3186ba50967",
+        "key": "NEX10",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "09b2749249b8a3fc",
+        "key": "NEX9",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "af40509ad087134d",
+        "key": "NEX8",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "52f503a790b89471",
+        "key": "NEX7",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "be4fde8a034a3440",
+        "key": "NEX6",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "a9574288038d889f",
+        "key": "NEX5",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "00a2407b125cff96",
+        "key": "amir1",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
 ]
